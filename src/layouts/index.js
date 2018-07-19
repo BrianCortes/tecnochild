@@ -19,10 +19,9 @@ const Layout = ({ children, data }) => (
       style={{
         margin: '0 auto',
         minWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
       }}
     >
+      <canvas className="fireworks"></canvas>
       {children()}
     </div>
   </div>

@@ -5,7 +5,7 @@ import './style.sass'
 
 const Header = ({ siteTitle }) => (
   <div
-    className='header-container' 
+    className='header-container'
   >
     <div className="header-menu">
       <div className="header-logo-eslogan">
@@ -13,9 +13,11 @@ const Header = ({ siteTitle }) => (
         <h1 className="header-eslogan">TecnoChild</h1>
       </div>
       <div className="header-links">
-        <h4>Consejos</h4>
+        <Link to="/consejos">
+          <h4>Consejos</h4>
+        </Link>
       </div>
-    </div> 
+    </div>
   </div>
 )
 
