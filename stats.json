@@ -1,20 +1,24 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b6691d08e43b9ddab72a.js",
-      "component---src-pages-index-js-b6691d08e43b9ddab72a.js.map"
+      "component---src-pages-index-js-3c9f295cb9ac1f2101ac.js",
+      "component---src-pages-index-js-3c9f295cb9ac1f2101ac.js.map"
     ],
     "path---": [
-      "path----cac63ff5c1b42581353c.js",
-      "path----cac63ff5c1b42581353c.js.map"
+      "path----fe7a5f49e8e14abb6090.js",
+      "path----fe7a5f49e8e14abb6090.js.map"
+    ],
+    "component---src-pages-relaciones-js": [
+      "component---src-pages-relaciones-js-04fbcf0c9f20342f375e.js",
+      "component---src-pages-relaciones-js-04fbcf0c9f20342f375e.js.map"
     ],
     "component---src-pages-consejos-js": [
-      "component---src-pages-consejos-js-643e24c71f6fb9c63e77.js",
-      "component---src-pages-consejos-js-643e24c71f6fb9c63e77.js.map"
+      "component---src-pages-consejos-js-a31bc843cc2cac7a81eb.js",
+      "component---src-pages-consejos-js-a31bc843cc2cac7a81eb.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-234c7a649c1d478fee72.js",
-      "component---src-layouts-index-js-234c7a649c1d478fee72.js.map"
+      "component---src-layouts-index-js-1c6b12d080bcc05c21e9.js",
+      "component---src-layouts-index-js-1c6b12d080bcc05c21e9.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -32,27 +36,39 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
+    "component---src-pages-competencias-js": [
+      "component---src-pages-competencias-js-a6df25ac9ea582cad4aa.js",
+      "component---src-pages-competencias-js-a6df25ac9ea582cad4aa.js.map"
+    ],
     "commons": [
-      "commons-4e98a79f4e3f58fbd9e0.js",
-      "commons-4e98a79f4e3f58fbd9e0.js.map"
+      "commons-cbf75c0fdbd1cfe89ced.js",
+      "commons-cbf75c0fdbd1cfe89ced.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---relaciones": [
+      "path---relaciones-a0e39f21c11f6a62c5ab.js",
+      "path---relaciones-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js",
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js.map"
     ],
     "app": [
-      "app-eef96aa21226f562a2b7.js",
+      "app-dd0da7323746699a0b9d.js",
       "build-js-styles.css",
-      "app-eef96aa21226f562a2b7.js.map",
+      "app-dd0da7323746699a0b9d.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---competencias": [
+      "path---competencias-a0e39f21c11f6a62c5ab.js",
+      "path---competencias-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
