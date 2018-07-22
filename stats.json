@@ -9,20 +9,24 @@
       "path----fe7a5f49e8e14abb6090.js.map"
     ],
     "component---src-pages-relaciones-js": [
-      "component---src-pages-relaciones-js-04fbcf0c9f20342f375e.js",
-      "component---src-pages-relaciones-js-04fbcf0c9f20342f375e.js.map"
+      "component---src-pages-relaciones-js-aa82e003fb8c0566e40e.js",
+      "component---src-pages-relaciones-js-aa82e003fb8c0566e40e.js.map"
     ],
     "component---src-pages-consejos-js": [
-      "component---src-pages-consejos-js-a31bc843cc2cac7a81eb.js",
-      "component---src-pages-consejos-js-a31bc843cc2cac7a81eb.js.map"
+      "component---src-pages-consejos-js-08ec697bac460c67390c.js",
+      "component---src-pages-consejos-js-08ec697bac460c67390c.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1c6b12d080bcc05c21e9.js",
-      "component---src-layouts-index-js-1c6b12d080bcc05c21e9.js.map"
+      "component---src-layouts-index-js-7f8b547abaec00fe4dcb.js",
+      "component---src-layouts-index-js-7f8b547abaec00fe4dcb.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-importancia-js": [
+      "component---src-pages-importancia-js-4e8d47e82b9beebe4156.js",
+      "component---src-pages-importancia-js-4e8d47e82b9beebe4156.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -37,8 +41,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "component---src-pages-competencias-js": [
-      "component---src-pages-competencias-js-a6df25ac9ea582cad4aa.js",
-      "component---src-pages-competencias-js-a6df25ac9ea582cad4aa.js.map"
+      "component---src-pages-competencias-js-c78bc4f357fc241ed672.js",
+      "component---src-pages-competencias-js-c78bc4f357fc241ed672.js.map"
     ],
     "commons": [
       "commons-cbf75c0fdbd1cfe89ced.js",
@@ -52,14 +56,18 @@
       "path---relaciones-a0e39f21c11f6a62c5ab.js",
       "path---relaciones-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---importancia": [
+      "path---importancia-a0e39f21c11f6a62c5ab.js",
+      "path---importancia-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js",
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js.map"
     ],
     "app": [
-      "app-dd0da7323746699a0b9d.js",
+      "app-c6eb52f81a19eb455e11.js",
       "build-js-styles.css",
-      "app-dd0da7323746699a0b9d.js.map",
+      "app-c6eb52f81a19eb455e11.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -69,6 +77,14 @@
     "path---competencias": [
       "path---competencias-a0e39f21c11f6a62c5ab.js",
       "path---competencias-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-juegos-js": [
+      "component---src-pages-juegos-js-6d58faedf10779d4b2e6.js",
+      "component---src-pages-juegos-js-6d58faedf10779d4b2e6.js.map"
+    ],
+    "path---juegos": [
+      "path---juegos-a0e39f21c11f6a62c5ab.js",
+      "path---juegos-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
