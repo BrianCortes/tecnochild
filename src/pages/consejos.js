@@ -6,7 +6,7 @@ import Image2 from '../assets/rulo.jpeg'
 import Image3 from '../assets/peluche.jpeg'
 import './styles.sass'
 
-class IndexPage extends React.Component {
+class Consejos extends React.Component {
   render() {
     return (
       <div>
@@ -110,4 +110,4 @@ class IndexPage extends React.Component {
   }
 }
 
-export default IndexPage
+export default Consejos

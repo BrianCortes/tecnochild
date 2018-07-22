@@ -3,9 +3,10 @@ import Colums from '../components/colums'
 import Image from '../assets/competition.jpeg'
 import Image2 from '../assets/language.jpeg'
 import Image3 from '../assets/advantages.jpeg'
+import Image4 from '../assets/matematicas.jpeg'
 import './styles.sass'
 
-class IndexPage extends React.Component {
+class Competencias extends React.Component {
   render() {
     return (
       <div>
@@ -15,7 +16,7 @@ class IndexPage extends React.Component {
         <Colums reverse>
           <div>
             <p>
-              <strong>Competencias verbales</strong>
+              <strong>Competencias verbales:</strong>
             </p>
             <ul>
               <li>
@@ -46,7 +47,7 @@ class IndexPage extends React.Component {
         <Colums>
           <div>
             <p>
-              <strong>Lenguaje escrito</strong>
+              <strong>Lenguaje escrito:</strong>
             </p>
             <ul>
               <li>
@@ -74,6 +75,64 @@ class IndexPage extends React.Component {
             src={Image2}
           />
         </Colums>
+        <Colums reverse>
+          <div>
+            <p>
+              <strong>Matemática:</strong>
+            </p>
+            <p>
+              La gran contribución del ordenador se sitúa en el desarrollo del
+              pensamiento geométrico y espacial, favoreciendo el desarrollo de
+              conceptos de simetría, patrones, organización espacial. Los niños
+              producen objetos y pueden actuar sobre ellos, aumentar o disminuir
+              su tamaño, juntar formas que dan origen a nuevas formas, colorear
+              espacios, etc.
+            </p>
+          </div>
+          <img
+            onMouseOver={this.onHover}
+            onMouseOut={this.onOut}
+            src={Image4}
+          />
+        </Colums>
+        <Colums>
+          <div>
+            <p>
+              <strong>Conocimiento del mundo:</strong>
+            </p>
+            <p>
+              A través de Internet podemos tener acceso a personas, imágenes,
+              sonidos y informaciones muy diversas y difícilmente accesibles de
+              otro modo, que pueden seguramente constituirse como poderosos
+              recursos educativos.
+            </p>
+            <p>
+              Desde buscar información sobre ballenas y sus hábitats, a
+              “visitar” un país lejano de done ha venido el nuevo compañero, a
+              consultar una enciclopedia interactiva para saber lo que son
+              cohetes, ver los trabajos realizados por colegas de otra escuela.
+            </p>
+          </div>
+          <img
+            onMouseOver={this.onHover}
+            onMouseOut={this.onOut}
+            src={Image3}
+          />
+        </Colums>
+        <div className="introduction">
+          <p>
+            Más allá del acceso a la información es también posible utilizar la
+            tecnología para transformar y producir nueva información. Los niños
+            pueden editar en papel o online sus trabajos, sea un periódico
+            escolar, un proyecto de búsqueda desarrollado o una historia.
+          </p>
+          <p>
+            La utilización de cámaras digitales permite documentar experiencias
+            vividas por los niños en el ámbito de su comunidad o en otros
+            contextos, fácilmente editables en el periódico escolar, el blog del
+            aula o la pagina web de la escuela.
+          </p>
+        </div>
         <div className="introduction">
           <h1>Ventajas</h1>
         </div>
@@ -101,9 +160,18 @@ class IndexPage extends React.Component {
             src={Image3}
           />
         </Colums>
+        <div className="introduction">
+          <p>
+            "La integración de la tecnología en la escuela, por muy avanzada que
+            sea, no es capaz, por sí misma, de transformarse en innovación
+            pedagógica. De hecho, la innovación pedagógica no reside en la
+            tecnología, pero sí en la mente de quien diseñará el contexto en el
+            que la tecnología será utilizado – el PROFESOR."
+          </p>
+        </div>
       </div>
     )
   }
 }
 
-export default IndexPage
+export default Competencias

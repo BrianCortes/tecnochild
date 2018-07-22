@@ -4,7 +4,7 @@ import Image from '../assets/ipad.jpeg'
 import Image1 from '../assets/soccer.jpeg'
 import './styles.sass'
 
-class IndexPage extends React.Component {
+class Relaciones extends React.Component {
   render() {
     return (
       <div>
@@ -88,4 +88,4 @@ class IndexPage extends React.Component {
   }
 }
 
-export default IndexPage
+export default Relaciones
